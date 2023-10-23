@@ -1,0 +1,6 @@
+#line 1 "/home/pytree/repos/college-arduino/向心力物理實驗/CentripetalForce/.vscode/arduino.json"
+{
+    "sketch": "CentripetalForce.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}

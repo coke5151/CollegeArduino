@@ -1,0 +1,5 @@
+{
+    "sketch": "CentripetalForce.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}

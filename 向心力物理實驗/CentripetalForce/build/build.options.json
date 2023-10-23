@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/home/pytree/.arduino15/packages",
+  "otherLibrariesFolders": "/home/pytree/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/pytree/repos/college-arduino/向心力物理實驗/CentripetalForce"
+}
