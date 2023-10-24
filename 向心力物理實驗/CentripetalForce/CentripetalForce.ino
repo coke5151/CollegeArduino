@@ -50,8 +50,11 @@ void loop() {
         }
     } while (n < 11);   // 十次就離開迴圈
     Serial.print("\n"); // 換行
-    // Serial.print("Cycle(ms) = ");
-    // Serial.println(SumCycle / 10, DEC); // 顯示 10 次的平均
+    //====================================
+    // 此處原本是註解，但實驗時會需要解除註解
+    Serial.print("Cycle(ms) = ");
+    Serial.println(SumCycle / 10, DEC); // 顯示 10 次的平均
+    //====================================
     Serial.print("Force = ");
     Serial.println(Force / 10, DEC); // 顯示 10 次的平均
     n = 1;
